@@ -25,7 +25,7 @@
 
 ## 📸 Demonstração
 
-
+![25movies](https://github.com/user-attachments/assets/ead438f4-3cef-4c6c-88f9-0ec20cd3c5e7)
 
 ## 📄 Licença
 
